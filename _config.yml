@@ -1,0 +1,24 @@
+# Welcome to Jekyll!
+
+language: de
+title: Lerne deutsch mit uns
+email: venera.urgazieva@protonmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Lerne Deutsch 
+
+#url: ""https://lernedeutsch.org/"" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+include:
+ - _pages
+ - .htaccess
+ - _files_a1_schreiben
+ - _files_a1_grammatik
+ - _files_a1_lesen
+ - _files_a1_sprechen
+ - _files_a1_pruefung
+ - _files_b1_schreiben
+ - _files_b1_grammatik
+ - _files_b1_lesen
+ - _files_b1_sprechen
+ - _files_b1_pruefung
